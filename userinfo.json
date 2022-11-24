@@ -1,0 +1,23 @@
+{
+    "status": "0",
+    "result": [
+        {
+            "username": "张三",
+            "sex": "男",
+            "education": "本科",
+            "university": "南京大学",
+            "phone": "123123123",
+            "date": "2022-07-25",
+            "hometown": "江苏"
+        },
+        {
+            "username": "李四",
+            "sex": "男",
+            "education": "研究生",
+            "university": "苏州大学",
+            "phone": "12222222223",
+            "date": "2022-07-26",
+            "hometown": "江苏"
+        }
+    ]
+}
